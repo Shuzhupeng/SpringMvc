@@ -1,2 +1,0 @@
-# SpringMvc
-springmvc Small example
